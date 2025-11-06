@@ -16,7 +16,6 @@ npm install
 ### 2. Adicionar Suas Fotos
 - Coloque suas fotos na pasta `public/img/`
 - Nomeie as fotos como: `foto1.jpg`, `foto2.jpg`, `foto3.jpg`, etc.
-- Veja as instruções detalhadas em `public/img/INSTRUCOES.txt`
 
 ### 3. Rodar o Projeto em Desenvolvimento
 ```bash
@@ -141,7 +140,6 @@ four-november/
 2. **Quantidade de Fotos**: Você pode adicionar quantas fotos quiser! Basta ajustar o array no `PhotoGallery.tsx`
 3. **Formatos Suportados**: .jpg, .jpeg, .png, .webp
 4. **Velocidade da Galeria**: Para mudar o tempo de transição automática, edite o `interval` no `PhotoGallery.tsx` (padrão: 5000ms)
-5. **Testar em Mobile**: Use as ferramentas de desenvolvedor do navegador para testar a responsividade
 
 ---
 
@@ -151,9 +149,7 @@ Agora é só:
 1. Adicionar suas fotos na pasta `public/img/`
 2. Rodar `npm run dev`
 3. Abrir no navegador
-4. Compartilhar com sua esposa!
-
-**Feliz 4 de Novembro! 💖**
+4. Compartilhar com seu conjogue!
 
 ---
 

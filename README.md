@@ -1,8 +1,6 @@
-# 🚀 Como Usar o Projeto
+# Four November - Site Romântico
 
-## Status: ✅ IMPLEMENTADO!
-
-Todas as funcionalidades foram implementadas com sucesso! O projeto está pronto para uso.
+Um projeto especial criado para celebrar o dia 4 de novembro, oferecendo uma experiência romântica com landing page elegante, galeria de fotos dinâmica e player de música integrado.
 
 ---
 
